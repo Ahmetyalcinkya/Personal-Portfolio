@@ -296,6 +296,7 @@ span {
   height: 5rem;
   background: var(--text-color);
   border-radius: 50%;
+  target: _blank;
 }
 
 .portfolio-layer a i {
